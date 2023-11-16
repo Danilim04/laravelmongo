@@ -6,6 +6,10 @@
     "license": "MIT",
     "require": {
         "php": "^8.1",
+        "doctrine/dbal": "^3.7",
+        "google/apiclient": "^2.15.0",
+        "google/apiclient-services": "~0.200",
+        "google/auth": "^1.28",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.2",
@@ -57,6 +61,7 @@
         "optimize-autoloader": true,
         "preferred-install": "dist",
         "sort-packages": true,
+        "process-timeout": 1200,
         "allow-plugins": {
             "pestphp/pest-plugin": true,
             "php-http/discovery": true
