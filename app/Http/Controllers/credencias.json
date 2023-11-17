@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "golden-totality-309523",
+  "private_key_id": "feca7c4790c28c9712a38196b032f946f2ee8472",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDdi6hVFh9GxvMx\nuWTfa0ExOCTiH7Ny6HluIZYDz8i4M3uyh2LRbvRln/muDpd7YtVXt4jvVsFB3nvp\nFyIXrXSBIAR4pe5/4wUzTN92UaC7cLrAZInODSy2QYWyBBIC4ozhm2HGBjqYZzq+\naCa+oJja3qXfFtZw/jjjQYMXJv50OP4stAVMU1yPdJsDguppX6MQt+JLFx1/9/Xq\nEfcRtmuMt3ASE/Q4UmKMojxXjaDiS+k5iIGH6XnZThJwrmOe/8HP5uzXVPZ91wU5\npaM6mldGiMJCWKL+FnxEfmfIqNOB5m4IR0RHMGgXNzfSxTfzIhaqzs0OCdsEeNde\n+8jfUXSfAgMBAAECggEATVyoQlYAQ/HTGGj5zX6hfDNzxbZ2Lkj5pjh6LwiOuavY\npQXbvvB0zUvonxwfT4m6n+/KFHGB+KNdN47Ja+U5CqIIjay7tNKsjTZpzeJBM1Lx\nE5/H8zjshRQqQHhlZbaApYNhyAmCypc5jyXFacmgtsUKvPU3mqtbaBgHU71dG23o\ny6ALFOYLsv/gUrZQBGXwoe2WHxG1g9JN4WYtBr4CUqK4scF112t7BibJgYh6g/4p\neEr3vQLPdwIll2sizjrlOM454flQouq2ydphVkWLMrAONM8TKGjeaNHwInOvlHTj\ncls1ojOVnk+iNzY2uy3GKtVKMP0EVuX/hsVvps71uQKBgQD8966dKUtEKp4ICZyn\n6PShMzOWj+YSv0WMsRkNEgLdmWKBs0GOU0Fg5pOzJh5xryooiuJg04HgQ2osFL0w\ncu4kB10Ja+UrMkfLsHGU3mqlBPa6ZC3MzVCqdEnrOcrVIe+zEBcNwdcsd9Kv6ndJ\nV6Gr6xxqS5no7sZymDmSDnKzvQKBgQDgM4vb57s0Z3Arpv18VqBPWtAVOVHbNGkk\nxsgApBWrXQrczW5Rb68tPB++j0bj+jJkjrIegy20hjj0SoF07sVXtx3PJdJcjwge\nff4iu/+2damaAg+tMsCetM5EG3h6HeoLzKejhCkOI9j/WJPCDDiTA1Az6GyB/LPm\nKRZUtAChiwKBgBbcv7A+ginn/B5X2Auo1ysWeIwb9zwsgzmi69OtlAq5CRkVvVAC\noD8Et8aSJGA754CAhNMhanR9Q0Q2n56YVIN3EuZ+FNkhkzGKgclljJfbaf0Qfr8q\nsyakmeWjdHxss8AoLR02Lp87ORRjCWLcg6UI+6lzqbZOlirXLSTRH3a1AoGAGi5K\nxbowxTTTB3XvoeZnv/yF0gSoh2V+ZboEvvZqRWGPFCu1FzNojGq59kG68IJWAiIb\nsK521t7ZpcVRirsbNlv+0iLDhuV4+D6UP7Aec0sYLBDTjdEgZygL8i4XCoOVwhz6\n8oBLXwhWnbLVRlKxBJHdesJIcYF17ImdvvRqInMCgYEAl5y+HKfA2h2Vvioxv01h\nhdxxccbgY/R0/Mtw0wtOUCsdEWM1/IglSHOLvqAH+9iSeBJVZX4+kmP/ekMan/jr\nkAJw/oJBPJ0MGqjz3jAmowOHqN+KESiNchtBRWPDHPFYLZv0fHKQ9SIi9gANh9G0\nfcyLSkcCenFt1JvmMlbonoc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "danielferraz@golden-totality-309523.iam.gserviceaccount.com",
+  "client_id": "103007903019884285658",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/danielferraz%40golden-totality-309523.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
