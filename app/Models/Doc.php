@@ -6,9 +6,7 @@ use MongoDB\Laravel\Eloquent\Model;
 
 class Doc extends Model
 {
-   
-    
-    
+          
     public static function getAllFillables()
     {
         $result = [];
