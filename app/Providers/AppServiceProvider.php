@@ -3,7 +3,7 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use App\Providers\GoogleSheetsServiceProvider;
+use App\Repository\GrupoEmpresasRepository;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -12,7 +12,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register(): void
     {
-        $this->app->register(GoogleSheetsServiceProvider::class);
+        
     }
 
     /**
